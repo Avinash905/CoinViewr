@@ -1,6 +1,6 @@
 ## CoinViewr 🪙
 
-👉[Click here](https://coinviewr.vercel.app/) to check out the app.
+👉[Click here](https://coin-viewr.vercel.app/) to check out the app.
 
 <h3>Description :</h3>
 
